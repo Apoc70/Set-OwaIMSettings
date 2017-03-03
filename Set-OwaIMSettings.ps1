@@ -23,7 +23,7 @@
 
   IMCertificateThumbprint is the certificate thumbprint of the Exchange OWA certificate
 
-  This script is an enhanced voerion of 
+  This script is an enhanced version of 
   https://juanjosemartinezmoreno.wordpress.com/2015/02/25/modifying-web-config-files-after-exchange-2013-cu-installation/  
  
   .NOTES 
