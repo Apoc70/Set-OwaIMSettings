@@ -10,6 +10,9 @@ IMCertificateThumbprint is the certificate thumbprint of the Exchange OWA certif
 
 This is an enhanced version of Juan Jose Martinez Moreno's script
 
+## Requirements
+
+
 ##Paramters
 ### FrontEndPoolFqdn
 Skype for Business front end pool FQDN
@@ -17,7 +20,7 @@ Skype for Business front end pool FQDN
 ### CertificateThumbprint
 Exchange Server OWA website SSL certificate thumbprint 
 
-##Example
+## Example
 ```
 .\Set-OwaIMSettings.ps1 -FrontEndPoolFqdn myfepool.varunagroup.de -CertificateThumbprint "1144F22E9E045BF0BA421CAA4BB7AF12EF570C17"
 ```
@@ -29,7 +32,7 @@ RISK OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.
 
 ##TechNet Gallery
 Find the script at TechNet Gallery
-* 
+* https://gallery.technet.microsoft.com/Update-OWA-vDir-config-086bbc17
 
 ##Credits
 Written by: Thomas Stensitzki

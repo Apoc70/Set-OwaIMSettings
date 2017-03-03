@@ -1,6 +1,6 @@
 <# 
   .SYNOPSIS 
-  Validate and update Exchange Server OWA web.config for Skype for Business server name and Im certificate
+  Validate and update Exchange Server OWA web.config for Skype for Business server name and IM certificate
 
   Thomas Stensitzki 
 
