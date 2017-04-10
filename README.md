@@ -1,7 +1,7 @@
 # Set-OwaIMSettings.ps1
 Validate and update Exchange Server OWA web.config for Skype for Business server name and IM certificate
 
-##Description
+## Description
 This scripts checks Exchange Server 2013+ OWA web.config file for existence of IMCertificateThumbprint and IMServerName Xml nodes required for Skype for Business OWA integration.
 
 IMServerName is the FQN of the Front End Pool
@@ -13,7 +13,7 @@ This is an enhanced version of Juan Jose Martinez Moreno's script
 ## Requirements
 
 
-##Paramters
+## Paramters
 ### FrontEndPoolFqdn
 Skype for Business front end pool FQDN
 
@@ -30,14 +30,14 @@ Update all OWA web.config files to Skype for Business FE Pool myfepool.varunagro
 THIS CODE IS MADE AVAILABLE AS IS, WITHOUT WARRANTY OF ANY KIND. THE ENTIRE  
 RISK OF THE USE OR THE RESULTS FROM THE USE OF THIS CODE REMAINS WITH THE USER.
 
-##TechNet Gallery
+## TechNet Gallery
 Find the script at TechNet Gallery
 * https://gallery.technet.microsoft.com/Update-OWA-vDir-config-086bbc17
 
-##Credits
+## Credits
 Written by: Thomas Stensitzki
 
-Stay connected:
+## Social
 
 * My Blog: http://justcantgetenough.granikos.eu
 * Twitter: https://twitter.com/stensitzki
@@ -50,6 +50,6 @@ For more Office 365, Cloud Security and Exchange Server stuff checkout services 
 * Website: https://www.granikos.eu/en/
 * Twitter: https://twitter.com/granikos_de
 
-Additional Credits:
+## Additional Credits:
 * Juan Jose Martinez Moreno
 * https://juanjosemartinezmoreno.wordpress.com/2015/02/25/modifying-web-config-files-after-exchange-2013-cu-installation/ 
