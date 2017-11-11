@@ -19,7 +19,7 @@
   of IMCertificateThumbprint and IMServerName Xml nodes required for Skype for Business
   OWA integration.
 
-  IMServerName is the FQN of the Front End Pool
+  IMServerName is the FQDN of the Front End Pool
 
   IMCertificateThumbprint is the certificate thumbprint of the Exchange OWA certificate
 
